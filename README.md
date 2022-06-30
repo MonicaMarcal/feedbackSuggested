@@ -5,8 +5,7 @@
 O projeto foi desenvolvido em conjunto com a escola <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a>, um widget que recolhe e reporta bugs, ideias e comentários dos usuários.
 
 
-## Veja a aplicação
-<a href="https://feedback-suggested.vercel.app/" target="_blank">Aplicação no ar</a>
+## Veja a  <a href="https://feedback-suggested.vercel.app/" target="_blank">aplicação no ar</a>
 
 ## Tecnologias utilizadas:
 
