@@ -103,7 +103,6 @@ export const api = axios.create({
 (https://www.postman.com/)
 
 # Faça a requisição:
-
 POST: http://localhost:3333/feedbacks
  body:{
     "type": "BUGs",
