@@ -105,8 +105,8 @@ export const api = axios.create({
 # Faça a requisição:
 
 POST: http://localhost:3333/feedbacks
-    body:{
+ body:{
     "type": "BUGs",
     "comment": "bugou geral!!!"
-    }
+ }
 ```
